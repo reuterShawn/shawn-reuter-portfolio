@@ -279,7 +279,7 @@ h3 { font-size: var(--fs-h3) }
 
 .my-services {
     background-color: var(--clr-dark);
-    background-image: url(../img/services-bg.jpg);
+    background-image: url(../img/portfolio-05.jpg);
     background-size: cover;
     /* background-blend-mode: multiply; */
     color: var(--clr-light);
@@ -294,7 +294,7 @@ h3 { font-size: var(--fs-h3) }
 .section__title--services::after {
     content: '';
     display: block;
-    width: 2em;
+    width: 3em;
     height: 1px;
     margin: 0.5em auto 1em;
     background: var(--clr-light);
